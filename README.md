@@ -26,7 +26,7 @@ To run this game on your local machine, follow these steps:
    
 3. Clone this Repository
 ```bash
-  https://github.com/skjawadahmed/car-game.git.git
+  https://github.com/skjawadahmed/car-game.git
   cd car-game
 ```
 
