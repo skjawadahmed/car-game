@@ -38,6 +38,20 @@ To run this game on your local machine, follow these steps:
 ```
 ENJOY GAMING!
 
+## Controls
+- **Left Arrow (←):** Move the car to the left lane (if available).
+- **Right Arrow (→):** Move the car to the right lane (if available).
+- **Y Key:** Restart the game after a crash.
+- **N Key:** Quit the game after a crash.
+
 #Screenshots
 ![Screenshot 2024-09-11 232615](https://github.com/user-attachments/assets/91338637-1691-417e-b207-d70b051bb583)
 ![Screenshot 2024-09-11 232720](https://github.com/user-attachments/assets/8d8d9fbc-4f3c-4f30-b78f-238442f81155)
+
+## Future Improvements
+- **Sound Effects and Music:** Add sound effects for collisions and background music during gameplay.
+- **Multiple Levels:** Implement different levels of difficulty as the game progresses, with varied obstacles.
+- **Power-ups:** Add power-ups such as temporary speed boosts, shields, or invincibility.
+- **Customizable Vehicles:** Allow players to choose different car models or colors.
+- **Leaderboards:** Implement a global leaderboard to track high scores.
+- **Better UI:** Better Graphics than usual. 
