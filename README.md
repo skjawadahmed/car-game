@@ -1,4 +1,4 @@
-# Car Game - Pygame
+# Car Game🚗 - Pygame
 
 A simple car racing game built using Pygame, where the player controls a car on a three-lane road, dodging other vehicles as they appear. The game gets progressively more difficult as the player's score increases, with vehicles moving faster as more cars are passed.
 
