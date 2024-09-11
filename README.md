@@ -26,8 +26,8 @@ To run this game on your local machine, follow these steps:
    
 3. Clone this Repository
 ```bash
-  [https://github.com/skjawadahmed/Open-CV-project](https://github.com/skjawadahmed/car-game).git
-  cd Open-CV-project
+  https://github.com/skjawadahmed/car-game.git.git
+  cd car-game
 ```
 
 5. Click on app.py file
