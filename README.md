@@ -23,6 +23,20 @@ To run this game on your local machine, follow these steps:
 2. **Install Pygame:** This game uses the Pygame library. To install Pygame, run:
    ```bash
    pip install pygame
+   
+3. Clone this Repository
+```bash
+  [https://github.com/skjawadahmed/Open-CV-project](https://github.com/skjawadahmed/car-game).git
+  cd Open-CV-project
+```
+
+5. Click on app.py file
+
+4. Run this command in terminal
+```bash
+  python car_game.py
+```
+ENJOY GAMING!
 
 #Screenshots
 ![Screenshot 2024-09-11 232615](https://github.com/user-attachments/assets/91338637-1691-417e-b207-d70b051bb583)
